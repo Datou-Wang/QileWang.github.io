@@ -3,10 +3,10 @@
 title: 吳健
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chien Shiung W
 
 # Full name (for SEO)
-first_name: Shiung Wu
+first_name: Shiung W
 last_name: Chien
 
 # Status emoji
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chien Shiung Wu is .
