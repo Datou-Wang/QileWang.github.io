@@ -66,14 +66,23 @@ education:
     date_start: 2020-09-01
     date_end: 2023-06-01
     summary: |
-      NAN
+      GPA: 3.8/4.0
 
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Electronic information science and technology
     institution: Henan Agricultural University
     date_start: 2014-09-01
     date_end: 2018-07-01
     summary: |
-      NAN
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
