@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Marine acoustics
-  - Distributed acoustic sensing (DAS)
+  - Distributed acoustic sensing
   - Whale call observation
 
 education:
