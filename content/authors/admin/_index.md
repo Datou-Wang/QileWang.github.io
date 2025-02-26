@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健
+title: 王其乐
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung W
+name_pronunciation: Qile Wang
 
 # Full name (for SEO)
-first_name: Shiung W
-last_name: Chien
+first_name: Qile
+last_name: Wang
 
 # Status emoji
 status:
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is .
+I'm Qile Wang, a Ph.D. candidate in marine acoustics at Zhejiang University, Hangzhou, China. My research focuses on marine environment sensing based on distributed acoustic sensing technologies, including marine organisms, ships, and other underwater acoustic targets.
