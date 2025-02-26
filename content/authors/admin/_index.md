@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 王其乐
+title: 吳健
 
 # Name pronunciation (optional)
-name_pronunciation: Qile Wang
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Qile
-last_name: Wang
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: phD Candidate
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Zhejiang University
+  - name: OpenAI
     url: https://openai.com/
 
 # Social network links
@@ -47,24 +47,24 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Marine acoustics
-  - Distributed acoustic sensing
-  - Whale call observation
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD Marine technology and Engineering
-    institution: Zhejiang University
-    date_start: 2023-07-01
-    date_end: 2027-06-31
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Marine science
-    institution: Zhejiang Ocean University
-    date_start: 2020-09-01
-    date_end: 2023-06-01
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
 
@@ -72,13 +72,13 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Electronic information science and technology
-    institution: Henan Agricultural University
-    date_start: 2014-09-01
-    date_end: 2018-07-01
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
-
+      GPA: 3.4/4.0
+      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-I'm Qile Wang, a Ph.D. candidate in marine acoustics at Zhejiang University, Hangzhou, China. My research focuses on marine environment sensing based on distributed acoustic sensing technologies, including marine organisms, ships, and other underwater acoustic targets.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
