@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Marine Acoustics
+  - Distributed acoustic sensing
+  - Whale call observation
 
 education:
   - area: PhD Artificial Intelligence
